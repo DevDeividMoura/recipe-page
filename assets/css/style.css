@@ -1,3 +1,18 @@
+body {
+    background-image: url('../images/bg-image.jpg');
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+#page {
+    width: 800px;
+    padding: 24px;
+    border-radius: 24px;
+    background-color: #F0E8C2;
+    margin: 48px auto;
+}
+
 img {
+    width: 100%;
     border-radius: 16px;
 }
