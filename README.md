@@ -15,8 +15,8 @@ A página apresenta uma receita detalhada de cupcakes, incluindo uma lista de in
     |-- css/
         |-- style.css     # Arquivo de estilos CSS
     |-- images/
-        |-- background.jpg
-        |-- recipe-image.jpg
+        |-- bg-image.jpg
+        |-- main-image.jpg
         |-- heart.svg
         |-- demo.jpg
 ```
